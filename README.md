@@ -1,2 +1,3 @@
 # random-split
-randomly split data
+Randomly split data in R using base functions.
+And dplyr function.
